@@ -1,0 +1,12 @@
+//
+//  ConfigKeys.xcconfig
+//  RickAndMorty
+//
+//  Created by gabatx on 20/9/23.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+// Colocamos la apikey en caso de ser necesario
+API_KEY=

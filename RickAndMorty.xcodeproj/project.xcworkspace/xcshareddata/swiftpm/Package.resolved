@@ -1,0 +1,59 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "41bcbaf24f67efb2befd8abc0f32f0c66d1c78be"
+      }
+    },
+    {
+      "identity" : "factory",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/hmlongco/Factory",
+      "state" : {
+        "revision" : "061b3afe0358a0da7ce568f8272c847910be3dd7",
+        "version" : "2.2.0"
+      }
+    },
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "7e89cf95dfa132ea7d02b405b9888dd851ec7de0"
+      }
+    },
+    {
+      "identity" : "realm-core",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-core.git",
+      "state" : {
+        "revision" : "1eb93c9619f6a05b5a91c2719690606016802e0b",
+        "version" : "13.20.1"
+      }
+    },
+    {
+      "identity" : "realm-data-manager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/gabatx/realm-data-manager",
+      "state" : {
+        "branch" : "main",
+        "revision" : "6329c58cea3e543b964f1a2b3503d9c681ffa195"
+      }
+    },
+    {
+      "identity" : "realm-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-swift",
+      "state" : {
+        "branch" : "master",
+        "revision" : "ecee9c56d1ce79a56aab3e8ad24cacaa0f14fcce"
+      }
+    }
+  ],
+  "version" : 2
+}
